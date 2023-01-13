@@ -119,6 +119,82 @@ or skill level.
 <details>
 <summary><h2>⚡Activities</h2></summary>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 12 Contributions in the Year 2023
+ > 
+> 📦 13.6 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 2 Public Repositories 
+ > 
+> 🔑 11 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+🌆 Daytime    20 commits     █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+🌃 Evening    39 commits     ██████████░░░░░░░░░░░░░░░   43.33% 
+🌙 Night      25 commits     ███████░░░░░░░░░░░░░░░░░░   27.78%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Tuesday      6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+Wednesday    16 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.78% 
+Thursday     11 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.22% 
+Friday       11 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.22% 
+Saturday     11 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.22% 
+Sunday       25 commits     ███████░░░░░░░░░░░░░░░░░░   27.78%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               6 repos             ████████████░░░░░░░░░░░░░   50.0% 
+CSS                      3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Rust                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/nunik92/nunik92/main/charts/bar_graph.png) 
+
+
+ Last Updated on 13/01/2023 21:20:37 UTC
 <!--END_SECTION:waka-->
 </details>
 
