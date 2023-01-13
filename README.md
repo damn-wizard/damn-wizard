@@ -117,10 +117,9 @@ or skill level.
 </a>
 
 <details>
-<summary><h2>⚡ Recent GitHub Activity</h2></summary>
-
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<!--START_SECTION:activity-->
+<summary><h2>⚡Activities</h2></summary>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </details>
 
 <details>
