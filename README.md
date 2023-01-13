@@ -91,36 +91,7 @@
 </p>
 
 ## 📊 Github Stats and Activity
-
-<h3>🔥 Streak Stats</h3>
-
-<p align="center">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img alt="damn wizard's streak" src="https://streak-stats.demolab.com/?user=nunik92&theme=monokai-metallian&hide_border=true&background=161b22&dates=77FF11C8&ring=77FF11C8&fire=77FF11C8&currStreakNum=FFF&sideNums=FFF&currStreakLabel=FFF&sideLabels=FFF"/>
-    </a>
-</p>
-
-<!-- <h3>💻 GitHub Profile Stats</h3>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://damnwizard-github-readme-stats.vercel.app/api/?username=nunik92&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=161b22&title_color=77FF11C8&icon_color=77FF11C8" height="192px" alt="damn wizard's Github Stats"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://damnwizard-github-readme-stats.vercel.app/api/top-langs/?username=nunik92&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=161b22&title_color=77FF11C8&custom_title=damn wizard's Top1 Languages" height="192px" alt="damn wizard's Top Languages" />
-</a>
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience
-or skill level.
--->
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="damn wizard's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=nunik92&bg_color=161b22&color=77FF11C8&line=77FF11C8&point=FFFFFF&hide_border=true" />
-</a>
- 
- 
- <h3>⚡ GitHub Profile Stats</h3>
- <!--START_SECTION:waka-->
- 
+<!--START_SECTION:waka--> 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
@@ -197,6 +168,31 @@ C++                      1 repo              ██░░░░░░░░░�
 
  Last Updated on 13/01/2023 21:20:37 UTC
 <!--END_SECTION:waka-->
+
+<h3>🔥 Streak Stats</h3>
+
+<p align="center">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img alt="damn wizard's streak" src="https://streak-stats.demolab.com/?user=nunik92&theme=monokai-metallian&hide_border=true&background=161b22&dates=77FF11C8&ring=77FF11C8&fire=77FF11C8&currStreakNum=FFF&sideNums=FFF&currStreakLabel=FFF&sideLabels=FFF"/>
+    </a>
+</p>
+
+<!-- <h3>💻 GitHub Profile Stats</h3>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://damnwizard-github-readme-stats.vercel.app/api/?username=nunik92&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=161b22&title_color=77FF11C8&icon_color=77FF11C8" height="192px" alt="damn wizard's Github Stats"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://damnwizard-github-readme-stats.vercel.app/api/top-langs/?username=nunik92&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=161b22&title_color=77FF11C8&custom_title=damn wizard's Top1 Languages" height="192px" alt="damn wizard's Top Languages" />
+</a>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience
+or skill level.
+-->
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="damn wizard's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=nunik92&bg_color=161b22&color=77FF11C8&line=77FF11C8&point=FFFFFF&hide_border=true" />
+</a>
 
 <details>
 <summary><h2>📊 My certificates</h2></summary>
