@@ -85,7 +85,7 @@
 </p>
 
 
-### 🧱 Architectural methodology
+### 🧱 Architectural Methodology
 <p>
     <img src="https://custom-icon-badges.demolab.com/badge/FSD-242526.svg?logo=fsd&style=for-the-badge" alt="feature sliced design">
 </p>
