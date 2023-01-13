@@ -111,16 +111,16 @@
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience
 or skill level.
+-->
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="damn wizard's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=nunik92&bg_color=161b22&color=77FF11C8&line=77FF11C8&point=FFFFFF&hide_border=true" />
 </a>
- -->
+ 
  
  <h3>⚡Activities</h3>
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
