@@ -94,7 +94,7 @@
 
 <h3>🔥 Streak Stats</h3>
 
-<p>
+<p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img alt="damn wizard's streak" src="https://streak-stats.demolab.com/?user=nunik92&theme=monokai-metallian&hide_border=true&background=161b22&dates=77FF11C8&ring=77FF11C8&fire=77FF11C8&currStreakNum=FFF&sideNums=FFF&currStreakLabel=FFF&sideLabels=FFF"/>
     </a>
@@ -121,6 +121,8 @@ or skill level.
  <h3>⚡Activities</h3>
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
