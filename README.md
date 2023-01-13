@@ -7,7 +7,7 @@
 <p align="center">
     <img title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/nunik92?color=55960c&style=for-the-badge&labelColor=488207&logo=star" alt="total stars"  />
     <img title="Followers" src="https://custom-icon-badges.demolab.com/github/followers/nunik92?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person&label=Followers&logoColor=white" alt="followers"/>
-    <img title="Profile views" src="https://komarev.com/ghpvc/?username=nunik92&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<!--     <img title="Profile views" src="https://komarev.com/ghpvc/?username=nunik92&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" /> -->
 </p>
 
 <p align="right">
@@ -100,7 +100,7 @@
     </a>
 </p>
 
-<h3>💻 GitHub Profile Stats</h3>
+<!-- <h3>💻 GitHub Profile Stats</h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://damnwizard-github-readme-stats.vercel.app/api/?username=nunik92&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=161b22&title_color=77FF11C8&icon_color=77FF11C8" height="192px" alt="damn wizard's Github Stats"/>
@@ -115,10 +115,10 @@ or skill level.
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="damn wizard's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=nunik92&bg_color=161b22&color=77FF11C8&line=77FF11C8&point=FFFFFF&hide_border=true" />
 </a>
-
-<details>
-<summary><h2>⚡Activities</h2></summary>
-<!--START_SECTION:waka-->
+ -->
+ 
+ <h3>⚡Activities</h3>
+ <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
@@ -156,7 +156,6 @@ Saturday     11 commits     ███░░░░░░░░░░░░░░�
 Sunday       25 commits     ███████░░░░░░░░░░░░░░░░░░   27.78%
 
 ```
-
 
 📊 **This Week I Spent My Time On** 
 
@@ -196,7 +195,6 @@ C++                      1 repo              ██░░░░░░░░░�
 
  Last Updated on 13/01/2023 21:20:37 UTC
 <!--END_SECTION:waka-->
-</details>
 
 <details>
 <summary><h2>📊 My certificates</h2></summary>
