@@ -92,9 +92,9 @@
 
 ## 📊 Github Stats and Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-89-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-101-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-112%20Thousand%20lines%20of%20code-blue)
 
@@ -102,7 +102,7 @@
 
 > 🏆 20 Contributions in the Year 2023
  > 
-> 📦 13.6 kB Used in GitHub's Storage 
+> 📦 13.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -168,7 +168,7 @@ C++                      1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Chart not found](https://raw.githubusercontent.com/nunik92/nunik92/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/01/2023 06:46:39 UTC
+ Last Updated on 19/01/2023 22:11:56 UTC
 <!--END_SECTION:waka-->
 
 <h3>🔥 Streak Stats</h3>
