@@ -92,9 +92,9 @@
 
 ## 📊 Github Stats and Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-181%20Thousand%20lines%20of%20code-blue)
 
@@ -137,17 +137,17 @@ Sunday       27 commits     ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ```text
 💬 Programming Languages: 
-TypeScript               32 hrs 48 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜   76.98% 
-JavaScript               4 hrs 27 mins       ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.44% 
-JSON                     2 hrs 46 mins       ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   6.5% 
-SCSS                     43 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   1.71% 
-CSS                      28 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   1.13%
+TypeScript               30 hrs 51 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜   73.51% 
+JavaScript               4 hrs 44 mins       ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.29% 
+JSON                     3 hrs 14 mins       ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   7.73% 
+SCSS                     43 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   1.74% 
+Text                     38 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   1.51%
 
 🔥 Editors: 
-WebStorm                 42 hrs 37 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
+WebStorm                 41 hrs 58 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
 
 💻 Operating System: 
-Windows                  42 hrs 37 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
+Windows                  41 hrs 58 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
 
 ```
 
@@ -168,7 +168,7 @@ C++                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Chart not found](https://raw.githubusercontent.com/nunik92/nunik92/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/02/2023 22:12:44 UTC
+ Last Updated on 02/02/2023 22:11:56 UTC
 <!--END_SECTION:waka-->
 
 <h3>🔥 Streak Stats</h3>
