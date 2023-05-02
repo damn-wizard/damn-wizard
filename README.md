@@ -173,17 +173,17 @@ C++                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img alt="damn wizard's streak" src="https://streak-stats.demolab.com/?user=nunik92&theme=monokai-metallian&hide_border=true&background=161b22&dates=77FF11C8&ring=77FF11C8&fire=77FF11C8&currStreakNum=FFF&sideNums=FFF&currStreakLabel=FFF&sideLabels=FFF"/>
+        <img alt="damn wizard's streak" src="https://streak-stats.demolab.com/?user=damn-wizard&theme=monokai-metallian&hide_border=true&background=161b22&dates=77FF11C8&ring=77FF11C8&fire=77FF11C8&currStreakNum=FFF&sideNums=FFF&currStreakLabel=FFF&sideLabels=FFF"/>
     </a>
 </p>
 
 <!-- <h3>💻 GitHub Profile Stats</h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://damnwizard-github-readme-stats.vercel.app/api/?username=nunik92&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=161b22&title_color=77FF11C8&icon_color=77FF11C8" height="192px" alt="damn wizard's Github Stats"/>
+    <img src="https://damnwizard-github-readme-stats.vercel.app/api/?username=damn-wizard&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=161b22&title_color=77FF11C8&icon_color=77FF11C8" height="192px" alt="damn wizard's Github Stats"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://damnwizard-github-readme-stats.vercel.app/api/top-langs/?username=nunik92&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=161b22&title_color=77FF11C8&custom_title=damn wizard's Top1 Languages" height="192px" alt="damn wizard's Top Languages" />
+    <img src="https://damnwizard-github-readme-stats.vercel.app/api/top-langs/?username=damn-wizard&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=161b22&title_color=77FF11C8&custom_title=damn wizard's Top1 Languages" height="192px" alt="damn wizard's Top Languages" />
 </a>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience
@@ -191,7 +191,7 @@ or skill level.
 -->
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="damn wizard's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=nunik92&bg_color=161b22&color=77FF11C8&line=77FF11C8&point=FFFFFF&hide_border=true" />
+    <img alt="damn wizard's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=damn-wizard&bg_color=161b22&color=77FF11C8&line=77FF11C8&point=FFFFFF&hide_border=true" />
 </a>
 
 <details>
