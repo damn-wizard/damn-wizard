@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-    <img title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/nunik92?color=55960c&style=for-the-badge&labelColor=488207&logo=star" alt="total stars"  />
-    <img title="Followers" src="https://custom-icon-badges.demolab.com/github/followers/nunik92?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person&label=Followers&logoColor=white" alt="followers"/>
-<!--     <img title="Profile views" src="https://komarev.com/ghpvc/?username=nunik92&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" /> -->
+    <img title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/damn-wizard?color=55960c&style=for-the-badge&labelColor=488207&logo=star" alt="total stars"  />
+    <img title="Followers" src="https://custom-icon-badges.demolab.com/github/followers/damn-wizard?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person&label=Followers&logoColor=white" alt="followers"/>
+<!--     <img title="Profile views" src="https://komarev.com/ghpvc/?username=damn-wizard&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" /> -->
 </p>
 
 <p align="right">
