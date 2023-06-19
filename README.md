@@ -92,7 +92,7 @@
 
 ## 📊 Github Stats and Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-891%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-891%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -135,13 +135,16 @@ Sunday                   98 commits          ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜   88.42 % 
+JSON                     0 secs              ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.54 % 
+JavaScript               0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.02 % 
+.env file                0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 3 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -161,7 +164,7 @@ C++                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/damn-wizard/damn-wizard/main/assets/bar_graph.png)
 
 
- Last Updated on 18/06/2023 22:08:25 UTC
+ Last Updated on 19/06/2023 22:09:23 UTC
 <!--END_SECTION:waka-->
 
 <h3>🔥 Streak Stats</h3>
