@@ -100,7 +100,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 76.1 kB Used in GitHub's Storage 
+> 📦 100.0 kB Used in GitHub's Storage 
  > 
 > 🏆 234 Contributions in the Year 2023
  > 
@@ -165,7 +165,7 @@ Dart                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/damn-wizard/damn-wizard/main/assets/bar_graph.png)
 
 
- Last Updated on 17/12/2023 22:08:44 UTC
+ Last Updated on 18/12/2023 22:09:10 UTC
 <!--END_SECTION:waka-->
 
 <h3>🔥 Streak Stats</h3>
