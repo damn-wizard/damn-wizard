@@ -102,8 +102,6 @@
 
 > 📦 693.0 kB Used in GitHub's Storage 
  > 
-> 🏆 48 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
@@ -166,7 +164,7 @@ Dart                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/damn-wizard/damn-wizard/main/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2024 22:09:22 UTC
+ Last Updated on 14/07/2024 22:11:16 UTC
 <!--END_SECTION:waka-->
 
 <h3>🔥 Streak Stats</h3>
