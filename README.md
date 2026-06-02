@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/Stylelint-145798.svg?logo=stylelint&labelColor=000&color=121212&style=for-the-badge" alt="Stylelint">
     <img src="https://img.shields.io/badge/Prettier-1a2b34.svg?logo=prettier&style=for-the-badge" alt="Prettier">
     <img src="https://img.shields.io/badge/Jest-91747c.svg?logo=jest&logoColor=8e475a&style=for-the-badge" alt="Jest">
-    <img src="https://img.shields.io/badge/GitHub Actions-2671E5.svg?logo=github actions&logoColor=white&style=for-the-badge" alt="GitHub Actions">
+    <img src="https://img.shields.io/badge/GitHubActions-2671E5.svg?logo=githubactions&logoColor=white&style=for-the-badge" alt="GitHub Actions">
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
