@@ -11,8 +11,8 @@
 </p>
 
 <p align="right">
-    <a href="https://www.codewars.com/users/Nunik92">
-        <img src="https://www.codewars.com/users/Nunik92/badges/micro" alt="codewars-badge">
+    <a href="https://www.codewars.com/users/DamnWizard">
+        <img src="https://www.codewars.com/users/DamnWizard/badges/micro" alt="codewars-badge">
     </a>
 </p>
 
@@ -192,13 +192,13 @@ or skill level.
     <img alt="damn wizard's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=damn-wizard&bg_color=161b22&color=77FF11C8&line=77FF11C8&point=FFFFFF&hide_border=true" />
 </a>
 
-<details>
+<!-- <details>
 <summary><h2>📊 My certificates</h2></summary>
 
 - [Udemy - React+Redux](https://www.udemy.com/certificate/UC-25edc36e-9aeb-458a-89ea-a16b559091eb/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email)
 - [Udemy - Dart](https://www.udemy.com/certificate/UC-f5ca9ddb-a134-4b0a-884e-4f7880f886ca/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email)
 
-</details>
+</details> -->
 
 <details>
 <summary><h2>📫 How to reach me</h2></summary>
