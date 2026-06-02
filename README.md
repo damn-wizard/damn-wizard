@@ -167,13 +167,13 @@ Dart                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  Last Updated on 01/06/2026 23:22:40 UTC
 <!--END_SECTION:waka-->
 
-<h3>🔥 Streak Stats</h3>
+<!-- <h3>🔥 Streak Stats</h3>
 
 <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img alt="damn wizard's streak" src="https://streak-stats.demolab.com/?user=damn-wizard&theme=monokai-metallian&hide_border=true&background=161b22&dates=77FF11C8&ring=77FF11C8&fire=77FF11C8&currStreakNum=FFF&sideNums=FFF&currStreakLabel=FFF&sideLabels=FFF"/>
     </a>
-</p>
+</p> -->
 
 <!-- <h3>💻 GitHub Profile Stats</h3>
 
@@ -188,9 +188,9 @@ Dart                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 or skill level.
 -->
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="damn wizard's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=damn-wizard&bg_color=161b22&color=77FF11C8&line=77FF11C8&point=FFFFFF&hide_border=true" />
-</a>
+</a> -->
 
 <!-- <details>
 <summary><h2>📊 My certificates</h2></summary>
