@@ -7,13 +7,13 @@
 <p align="center">
     <img title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/damn-wizard?color=55960c&style=for-the-badge&labelColor=488207&logo=star" alt="total stars"  />
     <img title="Followers" src="https://custom-icon-badges.demolab.com/github/followers/damn-wizard?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person&label=Followers&logoColor=white" alt="followers"/>
-<!--     <img title="Profile views" src="https://komarev.com/ghpvc/?username=damn-wizard&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" /> -->
-</p>
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/damn-wizard">
+     <a href="https://www.linkedin.com/in/damn-wizard">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge">
     </a>
+    <a href="mailto:tka4offmax@gmail.com">
+      <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge">
+    </a>
+<!--     <img title="Profile views" src="https://komarev.com/ghpvc/?username=damn-wizard&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" /> -->
 </p>
 
 <p align="right">
@@ -209,16 +209,3 @@ or skill level.
 - [Udemy - Dart](https://www.udemy.com/certificate/UC-f5ca9ddb-a134-4b0a-884e-4f7880f886ca/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email)
 
 </details> -->
-
-<details>
-<summary><h2>📫 How to reach me</h2></summary>
-
-<a href="mailto:tka4offmax@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge">
-</a>
-
-<a href="https://www.linkedin.com/in/damn-wizard">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge">
-</a>
-</details>
-
