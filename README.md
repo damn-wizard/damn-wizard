@@ -10,6 +10,12 @@
 <!--     <img title="Profile views" src="https://komarev.com/ghpvc/?username=damn-wizard&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" /> -->
 </p>
 
+<p align="left">
+    <a href="https://www.linkedin.com/in/damn-wizard">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge">
+    </a>
+</p>
+
 <p align="right">
     <a href="https://www.codewars.com/users/DamnWizard">
         <img src="https://www.codewars.com/users/DamnWizard/badges/micro" alt="codewars-badge">
