@@ -7,9 +7,7 @@
 <p align="center">
     <img title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/damn-wizard?color=55960c&style=for-the-badge&labelColor=488207&logo=star" alt="total stars"  />
     <img title="Followers" src="https://custom-icon-badges.demolab.com/github/followers/damn-wizard?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person&label=Followers&logoColor=white" alt="followers"/>
-     <a href="https://www.linkedin.com/in/damn-wizard" style="text-decoration: none">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge">
-    </a>
+     <a href="https://www.linkedin.com/in/damn-wizard"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
     <a href="mailto:tka4offmax@gmail.com">
       <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge">
     </a>
