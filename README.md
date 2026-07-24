@@ -10,7 +10,7 @@
      <a href="https://www.linkedin.com/in/damn-wizard" style="text-decoration: none">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge">
     </a>
-    <a href="mailto:tka4offmax@gmail.com" style="text-decoration: none">
+    <a href="mailto:tka4offmax@gmail.com">
       <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge">
     </a>
 <!--     <img title="Profile views" src="https://komarev.com/ghpvc/?username=damn-wizard&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" /> -->
