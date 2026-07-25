@@ -99,6 +99,13 @@
     <img src="https://img.shields.io/badge/Unreal%20Engine-000000?style=for-the-badge&logo=Unreal%20Engine&logoColor=white" alt="uneral engine">
 </p>
 
+## 📚 Studying now
+
+### 🎮 Game Engines
+<p>
+    <img src="https://img.shields.io/badge/Unity-827f7f?style=for-the-badge&logo=Unity&logoColor=white" alt="unity">
+</p>
+
 ## 📊 Github Stats and Activity
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C599%20hrs%2045%20mins-blue?style=flat)
